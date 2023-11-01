@@ -1,4 +1,4 @@
-# Augmented Reality in Maxillofacial Surgery
+# AR-StereoMarkerTracker | Augmented Reality in Maxillofacial Surgery
 
 ## Introduction
 This repository contains the source code for the pioneering application developed in 2009 that utilized augmented reality in maxillofacial surgery. The software captures images from two cameras, identifies markers, and computes 3D positions. It navigates through calibration and tracking states, leveraging computer vision and 3D rendering capabilities.
