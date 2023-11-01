@@ -1,0 +1,14 @@
+
+material ejeX/ejeX
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0.0196078 0.0196078 1
+			diffuse 1 0.0196078 0.0196078 1
+		}
+
+	}
+
+}
